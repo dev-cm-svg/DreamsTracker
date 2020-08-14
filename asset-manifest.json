@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dreamsTracker/static/css/main.f52d3968.chunk.css",
+    "main.js": "/dreamsTracker/static/js/main.5d147d80.chunk.js",
+    "main.js.map": "/dreamsTracker/static/js/main.5d147d80.chunk.js.map",
+    "runtime-main.js": "/dreamsTracker/static/js/runtime-main.73bfbedc.js",
+    "runtime-main.js.map": "/dreamsTracker/static/js/runtime-main.73bfbedc.js.map",
+    "static/js/2.443ddf38.chunk.js": "/dreamsTracker/static/js/2.443ddf38.chunk.js",
+    "static/js/2.443ddf38.chunk.js.map": "/dreamsTracker/static/js/2.443ddf38.chunk.js.map",
+    "index.html": "/dreamsTracker/index.html",
+    "precache-manifest.a63cb2a046822e25388c413a22fadca1.js": "/dreamsTracker/precache-manifest.a63cb2a046822e25388c413a22fadca1.js",
+    "service-worker.js": "/dreamsTracker/service-worker.js",
+    "static/css/main.f52d3968.chunk.css.map": "/dreamsTracker/static/css/main.f52d3968.chunk.css.map",
+    "static/js/2.443ddf38.chunk.js.LICENSE.txt": "/dreamsTracker/static/js/2.443ddf38.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73bfbedc.js",
+    "static/js/2.443ddf38.chunk.js",
+    "static/css/main.f52d3968.chunk.css",
+    "static/js/main.5d147d80.chunk.js"
+  ]
+}
